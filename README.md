@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Albin-Xavier/PZ-Improved-Komodo-Dragon">
-    <img src="docs/images/banner.png" alt="Project Banner" width="640" height="auto">
+    <img src="docs/images/banner.jpg" alt="Project Banner" width="640" height="auto">
   </a>
 </h1>
 
