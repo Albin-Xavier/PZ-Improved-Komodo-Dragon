@@ -79,14 +79,14 @@ My attempt at improving the Komodo Dragon, the largest lizard to walk on our pla
 
 ### Installation
 
-First, make sure you Planet Zoo installed. Once installed, by default your Planet Zoo game directory is located at the following folder: \*C:\Program Files\Steam\steamapps\common\Planet Zoo\*\
+First, make sure you have Planet Zoo installed. Once installed, by default your Planet Zoo game directory is located at the following folder: \*C:\Program Files\Steam\steamapps\common\Planet Zoo\*\
 If you have installed the game to a custom directory, the game will be located in \*steamapps\common\Planet Zoo\* within your custom installation directory.
 
 The mod is included as a .ovl file to be used in Planet Zoo. Extract the contents of the .zip file to win64 within the game directory. As an alternative, the .zip is packaged for easy installation using [Vortex](https://www.nexusmods.com/about/vortex/)
 
 ## Usage
 
-Once Installed, the mod will be immediately visible in your game! Take care, and please do enjoy it!
+Once installed, the mod will be immediately visible in your game! Take care, and please do enjoy it!
 
 ## Roadmap
 
@@ -119,7 +119,7 @@ For a full list of all authors and contributors, see [the contributors page](htt
 
 ## License
 
-This project is licensed under **Creative Commons Attribution 4.0**.
+This project is licensed under the **Creative Commons Attribution 4.0 License**.
 
 See [LICENSE](LICENSE) for more information.
 
